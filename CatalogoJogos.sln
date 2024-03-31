@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoJogos.Api", "CatalogoJogos.Api\CatalogoJogos.Api.csproj", "{BDCE86C0-CE32-4535-9900-1381C7CFABD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoJogos.Nucleo", "CatalogoJogos.Nucleo\CatalogoJogos.Nucleo.csproj", "{6F2EA726-D788-4D64-8187-4F40E85BEDDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BDCE86C0-CE32-4535-9900-1381C7CFABD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDCE86C0-CE32-4535-9900-1381C7CFABD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDCE86C0-CE32-4535-9900-1381C7CFABD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2EA726-D788-4D64-8187-4F40E85BEDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2EA726-D788-4D64-8187-4F40E85BEDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2EA726-D788-4D64-8187-4F40E85BEDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2EA726-D788-4D64-8187-4F40E85BEDDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
